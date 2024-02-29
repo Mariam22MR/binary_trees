@@ -51,7 +51,7 @@ int binary_tree_balance(const binary_tree_t *tree)
 }
 
 /**
- * binary_is_full - Check if binary tree is full or not.
+ * is_full - Check if binary tree is full or not.
  * @tree: Pointer of root binary tree.
  *
  * Return: 1 if is full or 0 if is not full.
